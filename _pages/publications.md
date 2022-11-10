@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /publications/
 title: publications
@@ -15,4 +15,4 @@ nav_order: 3
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
-</div>
+</div> -->
