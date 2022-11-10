@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: curricilum vitae
+title: curriculum vitae
 nav: true
 nav_order: 1
 ---
