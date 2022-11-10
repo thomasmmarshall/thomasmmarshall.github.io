@@ -110,7 +110,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Machine Learning Blog # blog_name will be displayed in your blog page
+blog_name: ML & AI Blog # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: A blog of things that I find interesting to do with machine learning and artifical intelligence.
 permalink: /blog/:year/:title/
