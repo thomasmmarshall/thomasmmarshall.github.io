@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-     <p>Stellenbosch, South Africa</p>
-  #   <p>123 your address street</p>
+     <p>Stellenbosch</p>
+     <p>South Africa/p>
   #   <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
@@ -26,3 +26,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! My name is Thomas. I am currently finishing my Master's degree in Machine Learning and Artifical Intelligence at Stellenbosch University, and I have a Bachelor of Engineering in Computer Engineering from the University of Pretoria. 
 
+For my Master's thesis I looked at variational state space models for vision-based robot control. I wrote a short blog post about this [here](/_posts/2022-11-11-masters.md/).
