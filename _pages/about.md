@@ -26,4 +26,4 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 Hello! My name is Thomas, I am currently finishing my MSc in Machine Learning and Artifical Intelligence at Stellenbosch University, and I have a BEng in Computer Engineering from the University of Pretoria. Please refer to my [CV](/cv/) for more information.
 
-For my Master's thesis I looked at variational state space models for vision-based robot control. I wrote a short blog post about this [here](/blog/2022/masters/).
+<!-- For my Master's thesis I looked at variational state space models for vision-based robot control. I wrote a short blog post about this [here](/blog/2022/masters/). -->
