@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Engineer <a href='#'>(MSc, BEng)</a>.
+subtitle: <a href='#'> Machine Learning Engineer (MSc, BEng)</a>
 
 profile:
   align: right
